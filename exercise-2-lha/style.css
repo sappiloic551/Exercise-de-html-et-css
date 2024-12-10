@@ -1,0 +1,46 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    width: 400px;
+    margin: auto
+
+}
+
+input {
+    border: 1px solid #000;
+    border-radius: 5px;
+    width: 200px;
+    padding: 10px;
+    margin-bottom: 20px;
+    box-sizing: border-box;
+}
+
+label {
+    display: inline-block;
+    width: 100px;
+    text-align: right;
+    margin-right: 10px;
+}
+
+input [type="code postal"]
+input [type="text"]
+input [type="text"]
+{
+    width: 200px;
+    padding: 10px;
+    margin-bottom: 2Opx;
+    border: 1px solid #000;
+    border-radius: 5px;
+    box-sizing: border-box;
+
+}
+    input:focus {
+        border: 2px solid #0000FF;
+    }
+
+    button[type="submit"]
+    {
+        background-color: #3e8e41;
+
+    }
+
+    
