@@ -1,0 +1,31 @@
+body 
+{ font-family: Arial, Helvetica, sans-serif;
+
+}
+h1 
+{ color: red;
+  text-align: center;
+
+}
+
+h2 
+{color: green;
+
+}
+
+article h2 
+{ color: green;
+
+}
+
+h2 + p 
+{ color: red;
+    font-style: italic;
+
+}
+
+h2 + p 
+{ color: purple;
+    font-style: italic;
+
+}
